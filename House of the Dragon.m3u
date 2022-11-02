@@ -36,3 +36,64 @@ http://192.168.0.4/Atualizacao/SMB/Obi-Wan%20Kenobi/Obi-Wan.Kenobi.S01E04.1080p.
 http://192.168.0.4/Atualizacao/SMB/Obi-Wan%20Kenobi/Obi-Wan.Kenobi.S01E05.1080p.WEB.DUAL/Obi-Wan.Kenobi.S01E05.1080p.WEB.DUAL.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Lok3HBSfbQxibQZBygoVCwKKrZ.jpg" group-title="Obi-Wan Kenobi" ,S01E06 
 http://192.168.0.4/Atualizacao/SMB/Obi-Wan%20Kenobi/Obi-Wan%20Kenobi%20S01E06%20WEB-DL%201080p%20DUAL%205.1/Obi-Wan%20Kenobi%20S01E06%20WEB-DL%201080p%20DUAL%205.1.mkv
+
+#########################################O Senhor dos Aneis Os Aneis de Poder########################
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg" group-title="O Senhor dos Aneis Os Aneis de Poder" ,S01E01 
+http://192.168.0.4/Atualizacao/SMB/O%20Senhor%20dos%20Aneis%20Os%20Aneis%20de%20Poder/O.Senhor.dos.Aneis.Os.Aneis.de.Poder.S01E01-02.720p.WEB-DL.DUAL.5.1/O.Senhor.dos.Aneis.Os.Aneis.de.Poder.S01E01.720p.WEB-DL.DUAL.5.1.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg" group-title="O Senhor dos Aneis Os Aneis de Poder" ,S01E02 
+http://192.168.0.4/Atualizacao/SMB/O%20Senhor%20dos%20Aneis%20Os%20Aneis%20de%20Poder/O.Senhor.dos.Aneis.Os.Aneis.de.Poder.S01E01-02.720p.WEB-DL.DUAL.5.1/O.Senhor.dos.Aneis.Os.Aneis.de.Poder.S01E02.720p.WEB-DL.DUAL.5.1.mkv
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg" group-title="O Senhor dos Aneis Os Aneis de Poder" ,S01E03 
+url
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg" group-title="O Senhor dos Aneis Os Aneis de Poder" ,S01E04
+url
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg" group-title="O Senhor dos Aneis Os Aneis de Poder" ,S01E05
+url
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg" group-title="O Senhor dos Aneis Os Aneis de Poder" ,S01E06 
+url
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg" group-title="O Senhor dos Aneis Os Aneis de Poder" ,S01E07 
+url
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg" group-title="O Senhor dos Aneis Os Aneis de Poder" ,S01E08 
+url
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg" group-title="O Senhor dos Aneis Os Aneis de Poder" ,S01E09
+url
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg" group-title="O Senhor dos Aneis Os Aneis de Poder" ,S01E010
+url
+
+#########################################Filmes########################
+
+#EXTINF:-1 tvg-logo="" group-title="Filmes" ,Hackers no Controle
+http://192.168.0.4/Atualizacao/SMB/Hackers%20no%20Controle%202022%201080p%20WEB-DL%20DUAL%205.1/Hackers%20no%20Controle%202022%201080p%20WEB-DL%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="" group-title="Filmes" ,Homem-Aranha - Sem Volta para Casa
+http://192.168.0.4/Atualizacao/SMB/Homem-Aranha%20-%20Sem%20Volta%20para%20Casa%20EXTENDED%202022%20WEB-DL%201080p%20DUAL%205.1/Homem-Aranha%20-%20Sem%20Volta%20para%20Casa%20EXTENDED%202022%20WEB-DL%201080p%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="" group-title="Filmes" ,Kaamelott - Premier Volet
+http://192.168.0.4/Atualizacao/SMB/Kaamelott%20-%20Premier%20Volet%202022/Kaamelott%20-%20Premier%20Volet%202022%20720p%20WEB-DL%20DUAL.mkv
+#EXTINF:-1 tvg-logo="" group-title="Filmes" ,Obi-Wan Kenobi - O Retorno do Jedi
+http://192.168.0.4/Atualizacao/SMB/Obi-Wan%20Kenobi%20-%20O%20Retorno%20do%20Jedi%202022%20WEB-DL%201080p%20DUAL%205.1/Obi-Wan%20Kenobi%20-%20O%20Retorno%20do%20Jedi%202022%20WEB-DL%201080p%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="" group-title="Filmes" ,The Woman King
+http://192.168.0.4/Atualizacao/SMB/The%20Woman%20King%202022/The%20Woman%20King%202022.mkv
+#EXTINF:-1 tvg-logo="" group-title="Filmes" ,Thor - Amor e Trovão
+http://192.168.0.4/Atualizacao/SMB/Thor%20-%20Amor%20e%20Trov%C3%A3o%202022%20IMAX%201080p%20WEB-DL%20DUAL%205.1/Thor%20-%20Amor%20e%20Trov%C3%A3o%202022%20IMAX%201080p%20WEB-DL%20DUAL%205.1.mkv
+#EXTINF:-1 tvg-logo="uh" group-title="Filmes" ,Top Gun - Maverick
+http://192.168.0.4/Atualizacao/SMB/Top%20Gun%20-%20Maverick%202022%201080p%20IMAX%20WEB-DL%20DUAL%205.1/Top%20Gun%20-%20Maverick%202022%201080p%20WEB-DL%20DUAL%205.1.mkv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
